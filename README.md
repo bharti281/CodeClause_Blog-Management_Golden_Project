@@ -32,7 +32,7 @@ This is the landing page screenshot
 
 This is the category screenshot here we can filter blogs by category
 
-![App Screenshot](https://assignmentis.000webhostapp.com/img/Screenshot%20(50).png
+![App Screenshot](https://assignmentis.000webhostapp.com/img/Screenshot%20(50).png)
 
 if you click continue reading then this page will be appear
 ![App Screenshot](https://assignmentis.000webhostapp.com/img/Screenshot%20(64).png)
